@@ -1,0 +1,6 @@
+{
+  "name": "FEIRA DA LUA • Noite Estrelada de Van Gogh",
+  "description": "Sistema de gestão da Feira da Lua com atmosfera e estética inspirada na obra A Noite Estrelada de Vincent van Gogh. Gestão de barracas, mapa da praça, caixa Pix/Espécie e cobranças.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
